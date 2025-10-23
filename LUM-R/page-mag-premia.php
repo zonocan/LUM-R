@@ -179,19 +179,21 @@ img {
       </tr>
       <!-- Hero Image, Flush : END -->
 
-      <tr><td align="center" style="color:#EC701D; font-weight: bold; font-size: 30px;">LUM入札会員様の年度会員プランをご確認お願いします</td></tr>
+      <tr><td align="center" style="color:#EC701D; font-weight: bold; font-size: 30px;">2026年LUM入札会　会員継続手続きのご案内</td></tr>
       <!-- 1 Column Text + Button : BEGIN -->
       <tr>
         <td>
           <table cellspacing="0" cellpadding="0" border="0" width="100%">
             <tr>
-              <td style="padding: 40px; text-align: center; font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #555555; "> LUM入札会入札会員の皆様 <br>
-                日頃よりLUM入札会をご利用いただき、誠にありがとうございます。 <br>
+              <td style="padding: 40px; text-align: center; font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #555555; ">
+
                 <br>
-                今年度より会員プランの変更を希望される場合のみ<br>
-                お手続きが必要となります。<br>
+                日頃よりLUM入札会をご利用いただき、誠にありがとうございます。<br>
+                2026年LUM入札会　会員継続手続きはつきましては、<br>
+                会員プランの変更を希望される場合のみお手続きが必要となります。<br>
                 <br>
                 会員プランの変更を希望されない場合はお手続きは不要となり、<br>
+                2026年2月1日以降は、<br>
                 現在の会員プランが継続されます。
                 <!-- Button : END -->
               </td>
@@ -216,9 +218,12 @@ img {
         <td>
           <table cellspacing="0" cellpadding="0" border="0" width="100%">
             <tr>
-              <td style="padding: 40px; text-align: center; font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #333333;">
+              <td style="padding:20px 40px; text-align: center; font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #333333;">
                   <br>
                   現在<strong style="background-color: #D5B83A; color: #fff; font-size: 28px; font-weight:bold; padding: 0 15px;">プレミアムプラン</strong>です<br>
+                  <br>
+                  <br>
+                  多くのご入札、ご落札ありがとうございます。<br>
                   <br>
                   <br>
                   <span>
@@ -261,7 +266,7 @@ img {
             <div style="display:inline-block; Margin: 0 -2px; max-width:45%; min-width:220px; vertical-align:top; width:100%;" class=" two-column ">
             <table cellspacing="0" cellpadding="0" border="0" width="100%" style="text-align: center;">
               <tr>
-                <td style="font-weight: bold; font-size: 20px; color:#474747;">変更する会員様/<br>退会希望の会員様</td>
+                <td style="font-weight: bold; font-size: 18px; color:#474747;">変更を希望される会員様/<br><small style="font-weight: normal">退会を希望の会員様</small></td>
               </tr>
 
               <tr>
@@ -286,7 +291,7 @@ img {
             <div style="display:inline-block; Margin: 0 -2px; max-width:45%; min-width:220px; vertical-align:top; width:100%;" class=" two-column">
             <table cellspacing="0" cellpadding="0" border="0" width="100%" style="text-align: center;">
               <tr>
-                <td style="font-weight: bold; font-size: 20px; color:#EC701D;">変更しない会員様</td>
+                <td style="font-weight: bold; font-size: 18px; color:#EC701D;">変更を希望されない会員様</td>
               </tr>
               <!--  -->
               <tr>
@@ -374,7 +379,7 @@ img {
                   <br>
                   年会費のご請求は<br>
                   2026年1月初旬頃に<br>
-                  BtoBプラットフォームにて<br>
+                  <strong>BtoBプラットフォーム</strong>にて<br>
                   お送り致します
                 </td>
               </tr>
@@ -428,7 +433,7 @@ img {
               <div>
                 <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%" style="max-width:500px; Margin: auto;">
                   <tr>
-                    <td valign="middle" style="text-align: center; padding:  20px; font-family: sans-serif; font-size:20px; font-weight:bold; mso-height-rule: exactly; line-height: 20px; color: #EC701D;">会員プラン変更期限　2025/11/1 ～ 2025/12/28</td>
+                    <td valign="middle" style="text-align: center; padding:  20px; font-family: sans-serif; font-size:20px; font-weight:bold; mso-height-rule: exactly; line-height: 20px; color: #EC701D;">会員プラン変更期限　2025/11/4 ～ 2025/12/25</td>
                   </tr>
                 </table>
               </div>
@@ -441,8 +446,10 @@ img {
             <td bgcolor="#ffffff" align="center" height="100%" valign="top" width="100%" style="padding: 10px 50px 0;">
               <br>
               <strong>■お問い合わせ</strong>
-
+              <br>
+              <br>
               LUM入札会事務局<br>
+              <br>
               tel:03-5937-5044<br>
               受付時間：月～金曜日（9:00~18:00）<br>
               <br>

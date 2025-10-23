@@ -173,19 +173,20 @@ img {
       </tr>
       <!-- Hero Image, Flush : END -->
 
-      <tr><td align="center" style="color:#EC701D; font-weight: bold; font-size: 30px;">入札会員様の年度継続手続き始まります!!</td></tr>
+      <tr><td align="center" style="color:#EC701D; font-weight: bold; font-size: 30px;">2026年LUM入札会　会員継続手続きのご案内</td></tr>
       <!-- 1 Column Text + Button : BEGIN -->
       <tr>
         <td>
           <table cellspacing="0" cellpadding="0" border="0" width="100%">
             <tr>
-              <td style="padding: 40px; text-align: center; font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #555555; "> LUM入札会入札会員の皆様 <br>
-                日頃よりLUM入札会をご利用いただき、誠にありがとうございます。 <br>
+              <td style="padding: 40px; text-align: center; font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #555555; ">
                 <br>
-                今年度より会員プランの変更を希望される場合のみ<br>
-                お手続きが必要となります。<br>
+                日頃よりLUM入札会をご利用いただき、誠にありがとうございます。<br>
+                2026年LUM入札会　会員継続手続きはつきましては、<br>
+                会員プランの変更を希望される場合のみお手続きが必要となります。<br>
                 <br>
                 会員プランの変更を希望されない場合はお手続きは不要となり、<br>
+                2026年2月1日以降は、<br>
                 現在の会員プランが継続されます。
                 <!-- Button : END -->
               </td>
@@ -210,10 +211,12 @@ img {
         <td>
           <table cellspacing="0" cellpadding="0" border="0" width="100%">
             <tr>
-              <td style="padding: 40px; text-align: center; font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #333333;">
+              <td style="padding:20px 40px; text-align: center; font-family: sans-serif; font-size: 15px; mso-height-rule: exactly; line-height: 20px; color: #333333;">
                   <br>
                   現在<strong style="background-color: #8AC4D8; color: #fff; font-size: 28px; font-weight:bold; padding: 0 15px;">ベーシックプラン</strong>です<br>
                   <br>
+                  月に1台以上落札できている会員さまは<br>
+                  プレミアムプランを推奨致します。<br>
                   <br>
                   <span>
                     <!-- <svg width="28" height="25" viewBox="0 0 28 25" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:25px;">
@@ -255,8 +258,9 @@ img {
             <div style="display:inline-block; Margin: 0 -2px; max-width:45%; min-width:220px; vertical-align:top; width:100%;" class=" two-column ">
               <table cellspacing="0" cellpadding="0" border="0" width="100%" style="text-align: center;">
                 <tr>
-                  <td style="font-weight: bold; font-size: 20px; color:#EC701D;">変更する会員様/<br>
-                  <span style="color: #474747">退会希望の会員様</span></td>
+                  <td style="font-weight: bold; font-size: 18px; color:#EC701D;">変更を希望される会員様/<br>
+                    <small style="font-weight: normal; color:#474747">退会を希望の会員様</small>
+                  </td>
                 </tr>
 
                 <tr>
@@ -281,7 +285,7 @@ img {
             <div style="display:inline-block; Margin: 0 -2px; max-width:45%; min-width:220px; vertical-align:top; width:100%;" class=" two-column">
             <table cellspacing="0" cellpadding="0" border="0" width="100%" style="text-align: center;">
               <tr>
-                <td style="font-weight: bold; font-size: 20px; color:#474747;">変更しない会員様</td>
+                <td style="font-weight: bold; font-size: 18px; color:#474747;">変更を希望されない会員様</td>
               </tr>
               <!--  -->
               <tr>
@@ -323,10 +327,10 @@ img {
                   下記のボタンより<br>
                   手続きをお願い致します<br>
                   <br>
-                  <span style="font: size 10px;">
+                  <!-- <span style="font: size 10px;">
                     （退会希望の会員さまも下記ボタンより<br>
                     お願い致します。）
-                  </span>
+                  </span> -->
                 </td>
               </tr>
               <!--  -->
@@ -366,7 +370,7 @@ img {
             <table cellspacing="0" cellpadding="0" border="0" width="100%" style="text-align: center;">
               <tr>
                 <br>
-                <td style="font-weight: bold; font-size: 25px; color:#474747;">お手続き完了</td>
+                <td style="font-weight: bold; font-size: 25px; color:#474747;">お手続き不要です</td>
               </tr>
             </table>
           </div>
@@ -419,8 +423,10 @@ img {
             <td bgcolor="#ffffff" align="center" height="100%" valign="top" width="100%" style="padding: 10px 50px 0;">
               <br>
               <strong>■お問い合わせ</strong>
-
+              <br>
+              <br>
               LUM入札会事務局<br>
+              <br>
               tel:03-5937-5044<br>
               受付時間：月～金曜日（9:00~18:00）<br>
               <br>
